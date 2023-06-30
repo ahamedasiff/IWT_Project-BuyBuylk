@@ -2,12 +2,12 @@
 
 buybuy.lk is an online shopping e-commerce website that allows users to browse and purchase products from various categories. The website is built using HTML, CSS, JavaScript, and PHP, providing an interactive and user-friendly shopping experience.
 
-**Features**
+## Features
   1. User-friendly interface with an intuitive design.
   2. Add products to the cart and manage the cart items.
   3. Secure user registration and login functionality.
 
-**Technologies Used**
+## Technologies Used
 The following technologies and tools were used to develop buybuy.lk:
 
   1. HTML, CSS, and JavaScript for the frontend.
@@ -15,7 +15,7 @@ The following technologies and tools were used to develop buybuy.lk:
   3. MySQL database for storing product and user information.
   4. Bootstrap framework for responsive design and layout.
 
-**Installation**
+## Installation
 To run buybuy.lk on your local machine, follow these steps:
 
   1. Clone the repository: git https://github.com/Aaathif/IWT_Project-BuyBuylk.git
@@ -24,6 +24,15 @@ To run buybuy.lk on your local machine, follow these steps:
   4. Import the provided SQL file (buybuy.sql) into the newly created database to set up the required tables and data.
   5. Configure the database connection in the config.php file located in the includes folder.
   6. Start your local web server and access buybuy.lk in your browser.
+
+## Contributors
+
+Special thanks to the following contributors for their valuable contributions to this project:
+
+- Aathif Thahir ([@Aaathif](https://github.com/Aaathif))
+- Jane Smith ([@MTMAmrin](https://github.com/MTMAmrin))
+- Alex Johnson ([@AththasMRM](https://github.com/Aatinfo))
+
 
 
 

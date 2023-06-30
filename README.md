@@ -30,8 +30,9 @@ To run buybuy.lk on your local machine, follow these steps:
 Special thanks to the following contributors for their valuable contributions to this project:
 
 - Aathif Thahir ([@Aaathif](https://github.com/Aaathif))
-- Jane Smith ([@MTMAmrin](https://github.com/MTMAmrin))
-- Alex Johnson ([@AththasMRM](https://github.com/Aatinfo))
+- M.T.M Amrin ([@MTMAmrin](https://github.com/MTMAmrin))
+- Aththas M.R.M ([@AththasMRM](https://github.com/Aatinfo))
+- Mohamed Hazil ([@MohammedHazil](https://github.com/MohammedHazil))
 
 
 

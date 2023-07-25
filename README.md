@@ -18,7 +18,7 @@ The following technologies and tools were used to develop buybuy.lk:
 ## Installation
 To run buybuy.lk on your local machine, follow these steps:
 
-  1. Clone the repository: git https://github.com/Aaathif/IWT_Project-BuyBuylk.git
+  1. Clone the repository: git [https://github.com/ahamedasiff/IWT_Project-BuyBuylk.git](https://github.com/ahamedasiff/IWT_Project-BuyBuylk.git)
   2. Set up a local web server environment: XAMPP and ensure PHP and MySQL are installed.
   3. Create a new database for buybuy.lk in phpMyAdmin or your preferred database management tool.
   4. Import the provided SQL file (buybuy.sql) into the newly created database to set up the required tables and data.
@@ -29,11 +29,7 @@ To run buybuy.lk on your local machine, follow these steps:
 
 Special thanks to the following contributors for their valuable contributions to this project:
 
+- Y.N.A Asiff ([@ahamedAsiff](https://github.com/ahamedasiff))
 - Aathif Thahir ([@Aaathif](https://github.com/Aaathif))
-- M.T.M Amrin ([@MTMAmrin](https://github.com/MTMAmrin))
 - Aththas M.R.M ([@AththasMRM](https://github.com/Aatinfo))
 - Mohamed Hazil ([@MohammedHazil](https://github.com/MohammedHazil))
-
-
-
-
